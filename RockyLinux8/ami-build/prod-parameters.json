@@ -1,0 +1,48 @@
+{
+    "Parameters": [
+        {
+            "ParameterKey": "SystemName",
+            "ParameterValue": "CentOSStream9"
+        },
+        {
+            "ParameterKey": "EnvType",
+            "ParameterValue": "prod"
+        },
+        {
+            "ParameterKey": "RecipeVer",
+            "ParameterValue": "1.0.0"
+        },
+        {
+            "ParameterKey": "CompVer",
+            "ParameterValue": "1.0.0"
+        },
+        {
+            "ParameterKey": "Platform",
+            "ParameterValue": "Linux"
+        },
+        {
+            "ParameterKey": "InstanceType",
+            "ParameterValue": "m5a.xlarge"
+        },
+        {
+            "ParameterKey": "IsEncrypted",
+            "ParameterValue": "false"
+        },
+        {
+            "ParameterKey": "VolumeSize",
+            "ParameterValue": "10"
+        },
+        {
+            "ParameterKey": "VolumeType",
+            "ParameterValue": "gp2"
+        },
+        {
+            "ParameterKey": "KeyName",
+            "ParameterValue": "CentOSStream9-prod"
+        },
+        {
+            "ParameterKey": "OriginAMI",
+            "ParameterValue": "ami-054a46b335b2fe0b8"
+        }
+    ]
+}
